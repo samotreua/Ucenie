@@ -1,5 +1,9 @@
 # Ucenie
 
+## Jazyk komunikácie
+
+Vždy komunikuj s používateľom po slovensky: všetky odpovede, otázky, vysvetlenia a zhrnutia píš po slovensky, aj keď sú skilly, nástroje alebo výstupy príkazov v angličtine. Kód, názvy súborov, príkazy a technické identifikátory nechaj v pôvodnom znení.
+
 ## Agent skills
 
 ### Issue tracker
